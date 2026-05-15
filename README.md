@@ -20,6 +20,20 @@
 - **Exploring AI Coding** — Building tools at the intersection of AI and developer workflows
 - **Open Source** — Creating utilities, sync tools, and developer productivity projects
 
+## Open Source Contributions
+
+- 🌐 **[microsoft/fluentui#31572](https://github.com/microsoft/fluentui/pull/31572)** — Add tree-item and tree-view component
+- 🌐 **[microsoft/fluentui#34417](https://github.com/microsoft/fluentui/pull/34417)** — Fix: restore focus on tree view & default size value
+- 🌐 **[microsoft/fluentui#34493](https://github.com/microsoft/fluentui/pull/34493)** — Fix typo on tree story config
+- 📊 **[qax-os/excelize#1946](https://github.com/qax-os/excelize/pull/1946)** — Add TickLabelPosition field in ChartAxis data type
+- 📦 **[nonzzz/vite-bundle-analyzer#80](https://github.com/nonzzz/vite-bundle-analyzer/pull/80)** — Fix parent directory creation for absolute output paths
+- 🤖 **[NousResearch/hermes-agent#9425](https://github.com/NousResearch/hermes-agent/pull/9425)** — Fix: route Weixin voice replies to real file attachments
+- 🐦‍⬛ **[nocoo/raven#6](https://github.com/nocoo/raven/pull/6)** — Add Azure VM deployment guide
+- 🐦‍⬛ **[nocoo/raven#9](https://github.com/nocoo/raven/pull/9)** — Add nginx proxy timeout settings to prevent 504s
+- 🧠 **[iamtouchskyer/memex#86](https://github.com/iamtouchskyer/memex/pull/86)** — Fix sync init empty commit issue
+- 📝 **[xitu/gold-miner#1287](https://github.com/xitu/gold-miner/pull/1287)** — Translation: Best practices for writing React components
+- 📝 **[xitu/gold-miner#1165](https://github.com/xitu/gold-miner/pull/1165)** — Translation: Making Node.js core bigger
+
 ## Recent Projects
 
 - 🔄 **[any-sync](https://github.com/imink/any-sync)** — Bidirectional sync for VS Code, Claude Code & OpenClaw via GitHub
