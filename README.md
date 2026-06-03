@@ -20,6 +20,16 @@
 - **Exploring AI Coding** — Building tools at the intersection of AI and developer workflows
 - **Open Source** — Creating utilities, sync tools, and developer productivity projects
 
+## What I Am Vibe Coding Now
+
+- 🔒 **[sticks3-typeless](https://github.com/imink/sticks3-typeless)** — M5StickS3 ESP32 firmware for a typeless voice terminal
+- 🌊 **[aqualife](https://github.com/imink/aqualife)** — Virtual aquarium pet simulator for M5StickS3 and macOS
+- 🔒 **[zoink-image-gen](https://github.com/imink/zoink-image-gen)** — Private React and Cloudflare Workers image chat/generation app
+- 🔒 **[portfolio_zoey](https://github.com/imink/portfolio_zoey)** — Private portfolio presentation with swipe navigation and polished slide transitions
+- 🔄 **[any-sync](https://github.com/imink/any-sync)** — Bidirectional sync for VS Code, Claude Code & OpenClaw via GitHub
+- 📓 **[onenote-md-exporter](https://github.com/imink/onenote-md-exporter)** — Console app to export OneNote notebooks to Markdown formats
+- ✍️ **[NoteGenie](https://github.com/imink/NoteGenie)** — Text-to-image site powered by Gemini
+
 ## Open Source Contributions
 
 - 🌐 **[microsoft/fluentui#31572](https://github.com/microsoft/fluentui/pull/31572)** — Add tree-item and tree-view component
